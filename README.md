@@ -26,5 +26,3 @@ I am a passionate computer engineer with experience in web development, mobile a
 <a href="http://www.github.com/berksengul17"><img src="https://github-readme-stats.vercel.app/api?username=berksengul17&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="berksengul17's GitHub stats" /></a>
 
 <br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/berksengul17/Sporzvous" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=berksengul17&repo=Sporzvous&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/berksengul17/duo_card_game" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=berksengul17&repo=duo_card_game&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
